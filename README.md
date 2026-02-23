@@ -1,4 +1,4 @@
-# ClipABit Web Client
+# ClipABit Web Client (Deprecated)
 
 Streamlit interface for ClipABit technical demo. Supports uploading and searching through videos in a demo repository
 
